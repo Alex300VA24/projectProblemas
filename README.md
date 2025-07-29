@@ -27,7 +27,7 @@ Este repositório contém soluções para problemas de programação avançada, 
 ```bash
 cd cpp/
 g++ arquivo.cpp -o executavel
-./executavel < entrada.txt
+./executavel
 
 ```
 ### Python
