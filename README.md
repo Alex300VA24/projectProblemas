@@ -2,14 +2,6 @@
 
 Este repositório contém soluções para problemas de programação avançada, implementadas em C++ e Python.
 
-## 📂 Estrutura do Projeto
-
-├── cpp/ 
-├── python/ 
-└── archivos/ 
-└── requirements.txt
-
-
 ## 💻 Linguagens Utilizadas
 
 - **C++**: Implementações principais dos algoritmos
