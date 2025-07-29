@@ -4,10 +4,10 @@ Este repositório contém soluções para problemas de programação avançada, 
 
 ## 📂 Estrutura do Projeto
 
-├── cpp/ # Códigos-fonte em C++ para resolver os problemas
-├── python/ # Simulações dos algoritmos mostrados em aula
-└── archivos/ # .txt para testes
-└── requirements.txt # Dependências Python
+├── cpp/ 
+├── python/ 
+└── archivos/ 
+└── requirements.txt
 
 
 ## 💻 Linguagens Utilizadas
